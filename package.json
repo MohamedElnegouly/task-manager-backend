@@ -1,0 +1,14 @@
+{
+  "name": "task-manager-backend",
+  "version": "1.0.0",
+  "description": "Simple mock REST API for the Flutter Task Manager assessment app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
